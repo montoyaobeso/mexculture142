@@ -48,22 +48,12 @@ To download files: [https://www.nakala.fr/nakala/data/11280/2752cdec](https://ww
 ## Copyrights and recomended citation
 
 When using the data please cite: 
-    
-  @inproceedings{obeso2018comparative,
-    title={Comparative study of visual saliency maps in the problem of classification of architectural images with Deep CNNs},
-    author={Obeso, Abraham Montoya and Benois-Pineau, Jenny and Guissous, Kamel and Gouet-Brunet, Valerie and V{\'a}zquez, Mireya S Garc{\'\i}a and Acosta, Alejandro A Ram{\'\i}rez},
-    booktitle={2018 Eighth International Conference on Image Processing Theory, Tools and Applications (IPTA)},
-    pages={1--6},
-    year={2018},
-    organization={IEEE}
-}
+* A. Montoya, J. Benois-Pineau, M. S. Vázquez, A. R. Acosta, K. Guissous and V. Gouet-Brunet, **Comparative study of visual saliency maps in the problem of classification of architectural images with deep CNNs**, in 2018 Eighth International Conference on Image Processing Theory, Tools and Applications (IPTA), China, 2018.       
+* Jenny Benois-Pineau,  Patrick Le Callet. **Visual Content Indexing and Retrieval with Psycho-Visual Models**, Eds., Multimedia Systems and Applications book series (MMSA), Springer International Publishing AG, 2017.
 
-        
-* Jenny Benois-Pineau,  Patrick Le Callet. Visual Content Indexing and Retrieval with Psycho-Visual Models, Eds., Multimedia Systems and Applications book series (MMSA), Springer International Publishing AG, 2017.
+## Acknowledgments
 
-
-
-
+The authors would like to thank both, the Université de Bordeaux and the National Polytechnic Institute for the provision of the facilities. Also, a special thank to each participant who gave us his valuable time. Finally, to Nesrine Tarhouni who supported us arduously on the task of project documentation and repository management.
 
 
 ## References
