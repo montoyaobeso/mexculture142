@@ -1,4 +1,4 @@
-# MexCulture142
+# MexCulture142 dataset
 
 ## Technical parameters
 
