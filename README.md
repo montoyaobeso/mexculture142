@@ -1,21 +1,8 @@
 # MexCulture142 dataset
 
-A. Montoya Obeso<sup>1</sup>
+A. Montoya Obeso<sup>1</sup>, J. Benois-Pineau<sup>2</sup>, M. S. García Vázquez<sup>1</sup> and Alejandro A. Ramírez Acosta<sup>3</sup>
 
-J. Benois-Pineau<sup>2</sup>
-
-M. S. García Vázquez<sup>1</sup>
-
-Alejandro A. Ramírez Acosta<sup>3</sup>
-
-
-
-
-<sup>1</sup>Instituto Politécnico Nacional, CITEDI, México
-
-<sup>2</sup>Université de Bordeaux, LaBRI, France
-
-<sup>3</sup>MIRAL R&D&I, United States
+<sup>1</sup>Instituto Politécnico Nacional, CITEDI, México, <sup>2</sup>Université de Bordeaux, LaBRI, France and  <sup>3</sup>MIRAL R&D&I, United States
 
 
 
