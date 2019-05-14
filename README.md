@@ -57,16 +57,17 @@ When using the data please cite:
 * A. Montoya, J. Benois-Pineau, M. S. Vázquez, A. R. Acosta, K. Guissous and V. Gouet-Brunet, **Comparative study of visual saliency maps in the problem of classification of architectural images with deep CNNs**, in 2018 Eighth International Conference on Image Processing Theory, Tools and Applications (IPTA), China, 2018.       
 * Jenny Benois-Pineau,  Patrick Le Callet. **Visual Content Indexing and Retrieval with Psycho-Visual Models**, Eds., Multimedia Systems and Applications book series (MMSA), Springer International Publishing AG, 2017.
 
-## Acknowledgments
-
-The authors would like to thank both, the Université de Bordeaux and the National Polytechnic Institute for the provision of the facilities. Also, a special thank to each participant who gave us his valuable time. Finally, to Nesrine Tarhouni who supported us arduously on the task of project documentation and repository management.
-
-
 ## References
 
 [1] A. Montoya, J. Benois-Pineau, M. S. Vázquez, A. R. Acosta, K. Guissous and V. Gouet-Brunet, **Comparative study of visual saliency maps in the problem of classification of architectural images with deep CNNs**, in 2018 Eighth International Conference on Image Processing Theory, Tools and Applications (IPTA), China, 2018.
 
 [2] D. S. Wooding, **Eye movements of large populations:II. Deriving regions of interest, coverage,and similarity using fixation maps**, in Behavior Research Methods, Instruments, & Computers, 2002.
+
+
+
+## Acknowledgments
+
+The authors would like to thank both, the Université de Bordeaux and the National Polytechnic Institute for the provision of the facilities. Also, a special thank to each participant who gave us his valuable time. Finally, to Nesrine Tarhouni who supported us arduously on the task of project documentation and repository management.
 
 
 
