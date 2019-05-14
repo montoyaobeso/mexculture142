@@ -7,7 +7,7 @@ The MexCulture142 dataset contains images of Mexican Cultural heritage recorded 
 The dataset contains 142 subclasses of Prehispanic, Colonial, Modern buildings, we provide 2 examples for each class and the corresponding \texttt{.txt} files of gaze fixations. Also, the saliency map of each image and \texttt{.txt} scanpath files where we have the coordinates and duration of fixations per subject.
 
 
-Number of categories | 142
-Images per category  | 2
-:---:|:---:
-Total | 284
+| Number of categories | 142 |
+|:--------------------:|:---:|
+|  Images per category |  2  |
+|         Total        | 284 |
