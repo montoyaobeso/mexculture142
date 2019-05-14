@@ -67,7 +67,7 @@ When using the data please cite:
 
 ## Acknowledgments
 
-The authors would like to thank both, the Université de Bordeaux and the National Polytechnic Institute for the provision of the facilities. Also, a special thank to each participant who gave us his valuable time. Finally, to Nesrine Tarhouni who supported us arduously on the task of project documentation and repository management.
+The authors would like to thank both, the Université de Bordeaux and the Instituto Politécnico Nacional for the facilities. Also, a special thank to each participant who gave us his valuable time on this experiment. Finally, to Nesrine Tarhouni who supported us arduously on the task of project documentation and repository management.
 
 
 
