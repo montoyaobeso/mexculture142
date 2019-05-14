@@ -45,7 +45,21 @@ Here some examples of filenames:
 ## Download
 To download files: [https://www.nakala.fr/nakala/data/11280/2752cdec](https://www.nakala.fr/nakala/data/11280/2752cdec "Download Dataset")
 
+## Copyrights and recomended citation
 
+When using the data please cite: 
+    
+  @inproceedings{obeso2018comparative,
+    title={Comparative study of visual saliency maps in the problem of classification of architectural images with Deep CNNs},
+    author={Obeso, Abraham Montoya and Benois-Pineau, Jenny and Guissous, Kamel and Gouet-Brunet, Valerie and V{\'a}zquez, Mireya S Garc{\'\i}a and Acosta, Alejandro A Ram{\'\i}rez},
+    booktitle={2018 Eighth International Conference on Image Processing Theory, Tools and Applications (IPTA)},
+    pages={1--6},
+    year={2018},
+    organization={IEEE}
+}
+
+        
+* Jenny Benois-Pineau,  Patrick Le Callet. Visual Content Indexing and Retrieval with Psycho-Visual Models, Eds., Multimedia Systems and Applications book series (MMSA), Springer International Publishing AG, 2017.
 
 
 
