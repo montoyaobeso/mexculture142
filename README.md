@@ -26,8 +26,10 @@ Timing for gaze recordings:
 The dataset contains 4 folders:
 * Images: contains 142 categories of Prehispanic, Colonial and  Modern styles.
 * Fixations: holds *.txt* files which are the corresponding fixations of source images.
-* Density Maps: contains the subjective saliency maps of each category, calculated as in this [ref.]("D. S. Wooding, Eye movements of large populations: II. Deriving regions of interest, coverage,and similarity using fixation maps, in Behavior Research Methods, Instruments, & Computers, 2002.").
+* Density Maps: contains the subjective saliency maps of each category, calculated as in [1].
 * Scanpaths: includes 6532 (284x23 participants) *.txt* files with fixation coordinates (in pixels) and fixations length (in seconds).
 
 
-[1] 
+
+[1] "D. S. Wooding, Eye movements of large populations: II. Deriving regions of interest, coverage,and similarity using fixation maps, in Behavior Research Methods, Instruments, & Computers, 2002."
+
