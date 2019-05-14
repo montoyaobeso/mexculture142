@@ -1,2 +1,1 @@
-# mexculture142
-Dataset MexCulture142
+#MexCulture142 dataset repository
