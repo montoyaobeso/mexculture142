@@ -34,7 +34,22 @@ The identifier for each filename is composed as follows:
 * Images:      SSS_XXX_YYY_N_#.png
 * Fixations:   SSS_XXX_YYY_GazeFix_N_#.txt
 * Density Maps: SSS_XXX_YYY_GFDM_N_#.png
-* ScanPath: SSS_XXX_YYY_ScanPath_N_#_P_"*".txt
+* ScanPath: SSS_XXX_YYY_ScanPath_N_#_P_*.txt
+
+Here some examples of filenames:
+* Prehispanic_Yaxchilan_Chiapas_N_2.png
+* Prehispanic_Yaxchilan_Chiapas_GazeFix_N_2.txt
+* Prehispanic_Yaxchilan_Chiapas_GFDM_N_2.png
+* Prehispanic_Yaxchilan_Chiapas_ScanPath_N_2_P_1.txt
+
+## Download
+To download files: [https://www.nakala.fr/nakala/data/11280/2752cdec](https://www.nakala.fr/nakala/data/11280/2752cdec "Download Dataset")
+
+
+
+
+
+
 
 
 ## References
