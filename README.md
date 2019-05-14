@@ -1,5 +1,9 @@
 # MexCulture142 dataset
 
+A. Montoya Obeso[^1]
+
+[^1]: Instituto Politécnico Nacional
+
 ## Technical parameters
 
 The MexCulture142 dataset contains images of Mexican Cultural heritage recorded during ANR PI Mexculture by IPN CITEDI and gaze fixations data recorded with an eye-tracker at LABRI UMR 5800 CNRS/University of Bordeaux/IPN. The goal of psycho-visual experiment is to record gaze fixations of subjects executing a visual task of recognition of architectural styles of Mexican Cultural heritage. Each category represents different views of the same architectural structure.
