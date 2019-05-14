@@ -14,7 +14,7 @@ Samples count:
 To recognize the architectural styles of Mexican buildings, the participants read instructions first with examples of images of target classes shown.  Then, the eye-tracker system is callibrated for each participant. Then, they then visualize images of the buildings on the experimental screen. Each image is shown for 3 seconds, then a gray frame is shown to reset their attention.
 
 Timing for gaze recordings:
-* Time for image displaying:3 seconds
+* Time for image displaying: 3 seconds
 * Time for gray frame displaying: 1 second
 * Time for calibration: 60 seconds
 * Time to read instructions: 180 seconds
@@ -30,6 +30,11 @@ The dataset contains 4 folders:
 * Scanpaths: includes 6532 (284x23 participants) *.txt* files with fixation coordinates (in pixels) and fixations length (in seconds).
 
 
+The identifier for each filename is composed as follows:
+* Images:      SSS_XXX_YYY_N_#.png
+* Fixations:   SSS_XXX_YYY_GazeFix_N_#.txt
+* Density Maps: SSS_XXX_YYY_GFDM_N_#.png
+* ScanPath: SSS_XXX_YYY_ScanPath_N_#_P_"*".txt
 
 
 ## References
