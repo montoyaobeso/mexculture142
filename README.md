@@ -1,6 +1,6 @@
 # MexCulture142 dataset
 
-A. Montoya Obeso[^1]
+A. Montoya Obeso [^1]
 
 [^1]: Instituto Politécnico Nacional
 
