@@ -49,7 +49,7 @@ Here some examples of filenames:
 * Prehispanic_Yaxchilan_Chiapas_ScanPath_N_2_P_1.txt
 
 ## Download
-To download files: [https://www.nakala.fr/nakala/data/11280/2752cdec](https://www.nakala.fr/nakala/data/11280/2752cdec "Download Dataset")
+Download files: [https://www.nakala.fr/nakala/data/11280/2752cdec](https://www.nakala.fr/nakala/data/11280/2752cdec "Download Dataset")
 
 ## Copyrights and recomended citation
 
