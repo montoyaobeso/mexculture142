@@ -26,10 +26,17 @@ Timing for gaze recordings:
 The dataset contains 4 folders:
 * Images: contains 142 categories of Prehispanic, Colonial and  Modern styles.
 * Fixations: holds *.txt* files which are the corresponding fixations of source images.
-* Density Maps: contains the subjective saliency maps of each category, calculated as in [1].
+* Density Maps: contains the subjective saliency maps of each category, calculated as in [2].
 * Scanpaths: includes 6532 (284x23 participants) *.txt* files with fixation coordinates (in pixels) and fixations length (in seconds).
 
 
 
-[1] "D. S. Wooding, Eye movements of large populations: II. Deriving regions of interest, coverage,and similarity using fixation maps, in Behavior Research Methods, Instruments, & Computers, 2002."
+
+## References
+
+[1] A. Montoya, J. Benois-Pineau, M. S. Vázquez, A. R. Acosta, K. Guissous and V. Gouet-Brunet, **Comparative study of visual saliency maps in the problem of classification of architectural images with deep CNNs**, in 2018 Eighth International Conference on Image Processing Theory, Tools and Applications (IPTA), China, 2018.
+
+[2] D. S. Wooding, **Eye movements of large populations:II. Deriving regions of interest, coverage,and similarity using fixation maps**, in Behavior Research Methods, Instruments, & Computers, 2002.
+
+
 
