@@ -1,4 +1,4 @@
-# MexCulture142
+# Mexculture142
 
 A. Montoya Obeso<sup>1</sup>, J. Benois-Pineau<sup>2</sup>, M. S. García Vázquez<sup>1</sup> and Alejandro A. Ramírez Acosta<sup>3</sup>
 
@@ -8,7 +8,7 @@ A. Montoya Obeso<sup>1</sup>, J. Benois-Pineau<sup>2</sup>, M. S. García Vázqu
 
 ## Technical parameters
 
-The MexCulture142 dataset contains images of Mexican Cultural heritage recorded during ANR PI Mexculture by IPN CITEDI and gaze fixations data recorded with an eye-tracker at LABRI UMR 5800 CNRS/University of Bordeaux/IPN. The goal of psycho-visual experiment is to record gaze fixations of subjects executing a visual task of recognition of architectural styles of Mexican Cultural heritage. Each category represents different views of the same architectural structure.
+The Mexculture142 dataset contains images of Mexican Cultural heritage recorded during ANR PI Mexculture by IPN CITEDI and gaze fixations data recorded with an eye-tracker at LABRI UMR 5800 CNRS/University of Bordeaux/IPN. The goal of psycho-visual experiment is to record gaze fixations of subjects executing a visual task of recognition of architectural styles of Mexican Cultural heritage. Each category represents different views of the same architectural structure.
 
 The dataset contains 142 subclasses of Prehispanic, Colonial, Modern buildings, we provide 2 examples for each class and the corresponding *.txt* files of gaze fixations. Also, the saliency map of each image and *.txt* scanpath files where we have the coordinates and duration of fixations per subject.
 
