@@ -1,6 +1,6 @@
 # Mexculture142
 
-A. Montoya Obeso<sup>1</sup>, J. Benois-Pineau<sup>2</sup>, M. S. García Vázquez<sup>1</sup> and Alejandro A. Ramírez Acosta<sup>3</sup>
+A. Montoya Obeso<sup>1,2</sup>, J. Benois-Pineau<sup>2</sup>, M. S. García Vázquez<sup>1</sup> and Alejandro A. Ramírez Acosta<sup>3</sup>
 
 <sup>1</sup>Instituto Politécnico Nacional, CITEDI, México  
 <sup>2</sup>Université de Bordeaux, LaBRI, France  
