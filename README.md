@@ -50,6 +50,10 @@ Here some examples of filenames:
 * Prehispanic_Yaxchilan_Chiapas_GFDM_N_2.png
 * Prehispanic_Yaxchilan_Chiapas_ScanPath_N_2_P_1.txt
 
+## More information:
+Description PDF: [https://www.nakala.fr/data/11280/5712e468](https://www.nakala.fr/data/11280/5712e468 "Download Notice (PDF)")
+
+
 ## Download
 Download dataset: [https://www.nakala.fr/nakala/data/11280/2752cdec](https://www.nakala.fr/nakala/data/11280/2752cdec "Download Dataset")
 
